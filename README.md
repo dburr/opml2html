@@ -5,9 +5,8 @@ opml2html
 
 I frequently contribute product reviews to the [NosillaCast][NC], a "technology geek
 podcast with an EVER so slight Macintosh bias" put out by my friend [Allison Sheridan][ALLISON].
-She insists that reviews must be submitted in both audio as well as text form, so that people who
-use screen readers (those with limited or no vision) can still read the show notes. Being a
-low vision user myself, I applaud this decision.
+She insists that reviews must be submitted in both audio as well as text form, so that those with
+disabilities can still play along. Being a low vision user myself, I applaud this decision.
 
 When working on a writing project of any length, I always use the [Omni Group][OMNI] excellent
 [OmniOutliner][OO] to organize my thoughts, so I figured that once I've organized my outline to

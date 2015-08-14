@@ -1,14 +1,14 @@
 opml2html
 =========
 
-### What is this? (aka the Problem to be Solved)
+### What exactly is this? (aka the Problem to be Solved)
 
 I frequently contribute product reviews to the [NosillaCast][NC], a "technology geek
 podcast with an EVER so slight Macintosh bias" put out by my friend [Allison Sheridan][ALLISON].
 She insists that reviews must be submitted in both audio as well as text form, so that those with
-disabilities can still play along. Being a low vision user myself, I applaud this decision.
+disabilities can participate. Being a low vision user myself, I applaud this decision.
 
-When working on a writing project of any length, I always use the [Omni Group][OMNI] excellent
+When working on a writing project of any length, I always use the [Omni Group's][OMNI] excellent
 [OmniOutliner][OO] to organize my thoughts, so I figured that once I've organized my outline to
 my satisfaction and fleshed it out, it would serve as a good set of show notes to send along with
 my audio review. Unfortunately, OmniOutliner's export formats leave much to be desired; none of
